@@ -1,7 +1,6 @@
 # CSS3 Transitions, Animations, and Advanced JavaScript Functions
 
 ## Objectives
-
 Create smooth CSS transitions and animations.
 Use JavaScript functions for dynamic behavior.
 Implement local storage for data persistence.
